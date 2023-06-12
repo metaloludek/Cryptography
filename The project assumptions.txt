@@ -1,0 +1,21 @@
+PL:
+Bezpieczne trzymanie plików 
+
+API, które:  
+
+Pozwoli na wrzucenie pliku 
+Zaszyfruje plik i zachowa go na dysku 
+Klucz nie może być trzymany w kodzie 
+nazwa pliku na dysku powinna być inna niż oryginalna 
+API do ściągania, odszyfrowywania plików 
+
+EN:
+Secure file storage
+
+An API that:
+
+Allows file upload
+Encrypts the file and stores it on disk
+The encryption key should not be stored in the code
+The file name on disk should be different from the original
+Provides an API for downloading and decrypting files.
